@@ -1,0 +1,6 @@
+Take a shower.
+Throw the trash.
+Make a soup
+Play Chess.
+Clean the code.
+Separate code into several files.

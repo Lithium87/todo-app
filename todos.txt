@@ -2,4 +2,3 @@ Take a shower.
 Throw the trash.
 Make a soup
 Play Chess.
-Buy grossery.Improve the code.Cook the dinner.
